@@ -1,2 +1,2 @@
-# viterbis-algorithm
-Viterbi's algorithm for learning a Hidden Markov Model from observations.
+# Viterbi's Algorithm
+Implemented Viterbi's algorithm for learning a Hidden Markov Model from observations.
